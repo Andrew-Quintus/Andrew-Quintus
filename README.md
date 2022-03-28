@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andrew-Quintus
-- 👨‍💼 I currently work as a IT Analyst!
+- 👨‍💼 I currently work as an IT Analyst!
 - ✍ I have a Bachelors degree in Information Systems with a concentration in CyberSecurity from Florida Atlantic University! 
 - 👀 I’m interested in CyberSecurity and currently studying to get my CompTIA Sec+ Cerification!
 - 🌱 I’m currently learning Python and Kali Linux
